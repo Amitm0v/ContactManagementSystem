@@ -95,7 +95,6 @@ def update_contact():
 
     print("Contact not found.")
 
-# Main function
 def main():
     while True:
         print("\nContact Management System")
