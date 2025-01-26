@@ -3,7 +3,6 @@ import os
 
 # File to store contacts
 CONTACTS_FILE = 'contacts.json'
-
 # Ensure the file exists
 if not os.path.exists(CONTACTS_FILE):
     with open(CONTACTS_FILE, 'w') as file:
