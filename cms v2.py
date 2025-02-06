@@ -1,6 +1,5 @@
 import json
 import os
-
 # File to store contacts
 CONTACTS_FILE = 'contacts.json'
 # Ensure the file exists
