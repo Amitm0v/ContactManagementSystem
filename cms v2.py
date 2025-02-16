@@ -6,7 +6,6 @@ CONTACTS_FILE = 'contacts.json'
 if not os.path.exists(CONTACTS_FILE):
     with open(CONTACTS_FILE, 'w') as file:
         json.dump([], file)
-
 # Utility function to load contacts
 def load_contacts():
     with open(CONTACTS_FILE, 'r') as file:
