@@ -10,7 +10,6 @@ if not os.path.exists(CONTACTS_FILE):
 def load_contacts():
     with open(CONTACTS_FILE, 'r') as file:
         return json.load(file)
-
 # Utility function to save contacts
 def save_contacts(contacts):
     with open(CONTACTS_FILE, 'w') as file:
