@@ -14,7 +14,6 @@ def load_contacts():
 def save_contacts(contacts):
     with open(CONTACTS_FILE, 'w') as file:
         json.dump(contacts, file, indent=4)
-
 # Create a new contact
 def create_contact():
     name = input("Enter contact name: ").strip()
