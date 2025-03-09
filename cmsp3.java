@@ -13,6 +13,7 @@ public class ContactManager {
         System.out.print("Enter contact phone number: ");
         String phone = scanner.nextLine().trim();
 
+        
         try (FileWriter writer = new FileWriter(CONTACTS_FILE, true)) {
             writer.write(name + "," + email + "," + phone + "\n");
             System.out.println("Contact created successfully.");
