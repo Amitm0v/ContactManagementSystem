@@ -4,6 +4,7 @@ import java.util.*;
 public class ContactManagement {
     private static final String FILE_NAME = "contacts.txt";
 
+    
     public static void createContact() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter contact name: ");
