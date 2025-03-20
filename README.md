@@ -58,4 +58,6 @@ The Contact Management System (CMS) is a simple yet powerful tool designed to he
    - Select option `5` and enter the name of the contact you wish to update. You can then modify the email and phone number.
 
 6. **Exit the Program**:
-   - Select option `6` to exit the program.
+   - Select option `6` to exit the program
+
+   
