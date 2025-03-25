@@ -26,7 +26,7 @@ The Contact Management System (CMS) is a simple yet powerful tool designed to he
 
 ## Usage
 
-### Java Version
+### Java Version ꦖ
 
 1. **Create a Contact**:
    - Select option `1` from the menu and enter the contact details.
