@@ -20,7 +20,7 @@ The Contact Management System (CMS) is a simple yet powerful tool designed to he
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites🧠
 
 - **Java**: Ensure you have Java installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 - **Python**: Ensure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
