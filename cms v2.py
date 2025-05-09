@@ -20,7 +20,6 @@ def create_contact():
     email = input("Enter contact email: ").strip()
     phone = input("Enter contact phone number: ").strip()
     contacts = load_contacts()
-
     # Check for duplicate names
     if any(contact['name'].lower() == name.lower() for contact in contacts):
         print("A contact with this name already exists.")
