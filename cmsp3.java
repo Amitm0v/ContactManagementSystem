@@ -11,9 +11,7 @@ public class ContactManager {
         System.out.print("Enter contact email: ");
         String email = scanner.nextLine().trim();
         System.out.print("Enter contact phone number: ");
-        String phone = scanner.nextLine().trim();
-
-        
+        String phone = scanner.nextLine().trim(); 
         try (FileWriter writer = new FileWriter(CONTACTS_FILE, true)) {
             writer.write(name + "," + email + "," + phone + "\n");
             System.out.println("Contact created successfully.");
