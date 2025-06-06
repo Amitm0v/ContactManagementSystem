@@ -24,7 +24,6 @@ The Contact Management System (CMS) is a simple yet powerful tool designed to he
 - **Python**: Ensure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
 
 ## Usage
-
 ### Java Version ꦖ
 
 1. **Create a Contact**:
