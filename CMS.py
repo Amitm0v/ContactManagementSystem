@@ -6,7 +6,6 @@ def create_contact():
     with open('contacts.txt', 'a') as file:
         file.write(f"{name},{email},{phone}\n")
     print("Contact created successfully.")
-
 def delete_contact():
     name = input("Enter contact name to delete: ")
 
