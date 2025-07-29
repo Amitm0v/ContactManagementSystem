@@ -57,5 +57,7 @@ The Contact Management System (CMS) is a simple yet powerful tool designed to he
 
 6. **Exit the Program**:
    - Select option `6` to exit the program
+---
+
 
    
