@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 public class ContactManager {
     private static final String CONTACTS_FILE = "contacts.txt";
     private static final Scanner scanner = new Scanner(System.in);
